@@ -25,7 +25,7 @@ define(['durandal/system', 'durandal/app', 'durandal/viewLocator', 'bootstrap'],
     system.debug(true);
     //>>excludeEnd("build");
 
-    app.title = "WorkshopOne";
+    app.title = "Durandal Sandbox";
 
     app.configurePlugins({
         router: true,

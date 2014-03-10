@@ -1,4 +1,4 @@
-# WorkshopOne
+# Durandal Sandbox
 
 This document explain how to develop and build this application.
 

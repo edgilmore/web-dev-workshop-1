@@ -11,6 +11,7 @@
                 { route: '', moduleId: 'viewmodels/home', title: "Home", nav: true },
                 {"route": "about", "moduleId": "viewmodels/about", "title": "About Us", "nav": true},
                 {"route": "products", "moduleId": "viewmodels/products", "title": "Products", "nav": true},
+                {"route": "KO", "moduleId": "viewmodels/KO", "title": "KO Test", "nav": true},
                 /*{durandal:routes}*/
             ]).buildNavigationModel();
 
