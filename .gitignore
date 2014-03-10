@@ -1,12 +1,20 @@
-dev-workshop-1.iml
-encodings.xml
-misc.xml
-modules.xml
-profiles_settings.xml
-Project_Default.xml
-scope_settings.xml
-vcs.xml
-.name
-.idea
-edgilmore.xml
-npm-debug.log
+﻿# Dependencies
+##########################
+node_modules/
+bower_components/
+packages/
+
+# Temporary directories
+##########################
+temp/
+tmp/
+.tmp/
+.temp/
+.idea/
+# Build directories
+##########################
+build/
+bld/
+dist/
+publish/
+.build/
