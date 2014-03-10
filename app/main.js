@@ -8,6 +8,8 @@ requirejs.config({
         'jquery': '../bower_components/jquery/jquery',
         'bootstrap': '../bower_components/bootstrap/dist/js/bootstrap',
         'modernizr': '../bower_components/modernizr/modernizr',
+        'q': '../bower_components/q/q',
+        'breeze': '../bower_components/breeze/Breeze.Client/Scripts/breeze.min',
     },
     shim: {
         bootstrap: {
