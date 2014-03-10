@@ -5,7 +5,8 @@
     "version": "0.0.0",
     "dependencies": {
         "breeze": "^0.4.0",
-        "knockout": "^3.1.0"
+        "knockout": "^3.1.0",
+        "phonegap": "^3.4.0-0.19.7"
     },
     "devDependencies": {
         "grunt": ">=0.4.0",
